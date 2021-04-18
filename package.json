@@ -1,0 +1,23 @@
+{
+  "name": "esm-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --open=./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barsich/ESM.git"
+  },
+  "author": "barsich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barsich/ESM/issues"
+  },
+  "homepage": "https://github.com/barsich/ESM#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
